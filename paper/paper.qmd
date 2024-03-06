@@ -12,7 +12,6 @@ format: pdf
 number-sections: true
 bibliography: references.bib
 ---
-
 ```{r}
 #| include: false
 #| warning: false
