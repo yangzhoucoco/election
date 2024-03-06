@@ -33,6 +33,9 @@ install.packages("tidybayes")
 ```
 
 ```{r}
+#| include: false
+#| warning: false
+#| message: false
 library(tidyverse)
 library(palmerpenguins)
 library(here)
